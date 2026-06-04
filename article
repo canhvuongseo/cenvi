@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://cenvi.3sgroup.vn/tu-van-ke-toan/viet-nam-phat-dong-phong-trao-bao-ve-moi-truong-cho-10-nam-toi/"
+  },
+  "headline": "Việt Nam phát động phong trào bảo vệ môi trường cho 10 năm tới",
+  "description": "Viết đoạn mô tả của bài viết vào đây",
+  "image": "https://cenvi.3sgroup.vn/anh-bai-viet",  
+  "author": {
+    "@type": "",
+    "name": ""
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "",
+    "logo": {
+      "@type": "ImageObject",
+      "url": ""
+    }
+  },
+  "datePublished": "2026-06-04"
+}
+</script>
